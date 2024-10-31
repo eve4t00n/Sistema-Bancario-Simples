@@ -1,0 +1,13 @@
+{
+  "name": "atividade1lp",
+  "version": "1.0.0",
+  "description": "Atividade 1 da Matéria Linguagem de Programação 2024.2 - UFRN",
+  "main": "./main.cpp",
+  "scripts": {
+    "compile": "g++ -o main.exe ./main.cpp ./ContaBancaria/ContaBancaria.cpp ./Cliente/Cliente.cpp",
+    "dev": "main.exe"
+  },
+  "keywords": [],
+  "author": "eve4t00n",
+  "license": "ISC"
+}
